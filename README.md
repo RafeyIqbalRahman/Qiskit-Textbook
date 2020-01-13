@@ -1,7 +1,3 @@
-# Qiskit-Textbook
-# Learn-Quantum-Computing-using-Qiskit-Full-PDF-Textbook
-# From the Qiskit Community team in collaboration with IBM Research
-
 # TABLE OF CONTENTS
 
 Preface
